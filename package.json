@@ -1,0 +1,15 @@
+{
+  "name": "hpage_1.0",
+  "version": "1.0.0",
+  "description": "hpage v:1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "author": "hou",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
